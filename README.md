@@ -1,4 +1,4 @@
 AndroidGridImageSearch
 ======================
 
-Android search to search images and display
+Android app to search images and display
